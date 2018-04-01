@@ -1,2 +1,0 @@
-# alinself1
-Selfbot
